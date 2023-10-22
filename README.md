@@ -5,11 +5,11 @@
 </div>  
   
 # 💫 About Us:
-### <div align="center"> We're DataSciencester, a group of students in data science 👨‍💻 working remotely since 2023 🚀</div>
-    🔭 We’re currently working on some data projet Github DataSciencester<br><br>
-    🌱 We’re currently learning Data analysis and Data science.<br><br>
-    ❓ Ask us about anything related to Data science and related technologies.<br><br>
-    ⚡ Fun fact: Our hobbies is playing with datasets.
+### <div align="left"> We're DataSciencester, a group of students in data science 👨‍💻 working remotely since 2023 🚀</div>
+  🔭 We’re currently working on some data projet Github DataSciencester<br><br>
+  🌱 We’re currently learning Data analysis and Data science.<br><br>
+  ❓ Ask us about anything related to Data science and related technologies.<br><br>
+  ⚡ Fun fact: Our hobbies is playing with datasets.
 
 
 # 💻 Tech Stack:
