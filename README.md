@@ -2,8 +2,9 @@
 <img src="https://i0.wp.com/paymentearth.com/wp-content/uploads/2020/07/big-data-analytics-banner-image-131934029945360761.jpg?ssl=1" align="center" style="width: 100%" />
 </div>  
   
-# 💫 About Me:
-We're DataSciencester, a group of student in data science 👨‍💻 working remotely since 2023 🚀<br><br>🔭 We’re currently working on some data projet Github DataSciencester<br><br>🌱 We’re currently learning Data analysis and Data science.<br><br>❓ Ask us about anything related to Data science and related technologies.<br><br>⚡ Fun fact: Our hobbies is playing with datasets.
+# 💫 About Us:
+### <div align="center"> We're DataSciencester, a group of student in data science 👨‍💻 working remotely since 2023 🚀</div>
+🔭 We’re currently working on some data projet Github DataSciencester<br><br>🌱 We’re currently learning Data analysis and Data science.<br><br>❓ Ask us about anything related to Data science and related technologies.<br><br>⚡ Fun fact: Our hobbies is playing with datasets.
 
 
 # 💻 Tech Stack:
