@@ -1,3 +1,4 @@
+<h1 align="center">DataSciencester Students Group</h1>
 <div align="center">
 <img src="https://i0.wp.com/paymentearth.com/wp-content/uploads/2020/07/big-data-analytics-banner-image-131934029945360761.jpg?ssl=1" align="center" style="width: 100%" />
 </div>  
